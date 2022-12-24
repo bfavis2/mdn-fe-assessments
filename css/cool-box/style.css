@@ -1,0 +1,26 @@
+html {
+    font-family: sans-serif;
+  }
+  
+  /* Your CSS below here */
+
+div {
+    /* box dimensions */
+    width: 200px;
+    height: 100px;
+    border: 1px solid rgb(97, 40, 7);
+    border-radius: 10%;
+
+    
+
+    /* text */
+    font-size: 1.1rem;
+    color: white;
+    text-shadow: 5px 5px black;
+    text-align: center;
+    line-height: 5;
+
+
+    background-color: rgba(150, 74, 30, 0.849);
+
+}
