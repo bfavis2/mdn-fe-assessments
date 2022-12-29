@@ -8,6 +8,7 @@ div {
     /* box dimensions */
     width: 200px;
     height: 100px;
+    margin: auto;
     border: 1px solid rgb(97, 40, 7);
     border-radius: 10%;
 
@@ -18,7 +19,7 @@ div {
     color: white;
     text-shadow: 5px 5px black;
     text-align: center;
-    line-height: 5;
+    line-height: 3;
 
 
     background-color: rgba(150, 74, 30, 0.849);
